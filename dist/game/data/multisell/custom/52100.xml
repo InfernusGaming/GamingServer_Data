@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Potions-->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+	<npc>10003</npc>
+	</npcs>
+	
+
+<!-- Top-Grade Life Stone - Level 76 -->
+        <item>
+            <ingredient id="5570" count="500000"/>
+            <production id="8762" count="1"/>
+        </item>
+
+<!-- Top-Grade Life Stone - Level 76 -->
+        <item>
+            <ingredient id="5572" count="250000"/>
+            <production id="8762" count="1"/>
+        </item>
+<!-- Top-Grade Life Stone - Level 76 -->
+        <item>
+            <ingredient id="5574" count="125000"/>
+            <production id="8762" count="1"/>
+        </item>
+<!-- Top-Grade Life Stone - Level 76 -->
+        <item>
+            <ingredient id="3470" count="2"/>
+            <production id="8762" count="1"/>
+        </item>
+ </list>

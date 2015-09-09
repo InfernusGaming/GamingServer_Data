@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Jewels RB -->
+<!-- © 2010 by mathuza (Freya) -->
+<!-- © 2011 by 007Florin (H5) -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+	<npc>10002</npc>
+	</npcs>
+
+  <!-- Ring of Core -->
+  <item>
+    <ingredient id="3470" count="100"/>
+    <production id="6662" count="1"/>
+  </item>
+
+  <!-- Earring of Orfen -->
+  <item>
+    <ingredient id="3470" count="200"/>
+    <production id="6661" count="1"/>
+  </item>
+
+  <!-- Baylor's Earring -->
+  <item>
+    <ingredient id="3470" count="200"/>
+    <production id="10170" count="1"/>
+  </item>
+
+  <!-- Zaken Earring -->
+  <item>
+    <ingredient id="3470" count="5000"/>
+    <production id="6659" count="1"/>
+  </item>
+
+  
+</list>

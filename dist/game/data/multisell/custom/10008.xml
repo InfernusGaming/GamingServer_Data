@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Freya RB Jewels -->
+<!-- © 2010 by mathuza -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+	<npc>10002</npc>
+	</npcs>
+	<!-- Freya RB Jewels -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="16025" count="1" />
+	</item>
+	<!-- Freya RB Jewels -->
+	<item>
+		<ingredient id="57" count="1" />
+		<production id="16026" count="2" />
+	</item>
+
+
+
+</list>

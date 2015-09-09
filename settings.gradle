@@ -1,0 +1,2 @@
+include ':GamingServer'
+project(':GamingServer').projectDir = new File(settingsDir, '../GamingServer')

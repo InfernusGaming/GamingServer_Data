@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Bracelet -->
+<!-- © 2011 by 007Florin -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+	<npc>10002</npc>
+	</npcs>
+
+  <!-- Mount Bracelet - Darkmane Pacer -->
+  <item>
+  <ingredient id="3470" count="20"/>
+    <production id="21383" count="1"/>
+  </item>
+
+  <!-- Mount Bracelet - Steam Beatle -->
+  <item>
+  <ingredient id="3470" count="20"/>
+    <production id="21395" count="1"/>
+  </item>
+
+  <!-- Mount Bracelet - Gold Maned Lion -->
+  <item>
+  <ingredient id="3470" count="20"/>
+    <production id="21407" count="1"/>
+  </item>
+
+
+</list>

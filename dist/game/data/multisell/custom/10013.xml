@@ -1,0 +1,90 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Talisman -->
+<!-- © 2010 by mathuza -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+	<npc>10002</npc>
+	</npcs>
+
+
+<item>
+		<ingredient id="57" count="12000" />
+		<production id="10533" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="12000" />
+		<production id="10534" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="12000" />
+		<production id="10535" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="12000" />
+		<production id="10536" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="12000" />
+		<production id="10537" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="12000" />
+		<production id="10538" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="12000" />
+		<production id="10539" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="12000" />
+		<production id="10540" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="12000" />
+		<production id="10541" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="12000" />
+		<production id="10542" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="12000" />
+		<production id="10543" count="1" />
+	</item>
+
+
+    <!-- Iron Bracelet -->
+  <item>
+    <ingredient id="57" count="10000000"/>
+    <production id="9589" count="1"/>     
+	
+ </item>
+
+  <!-- Bronze Bracelet -->
+  <item>     
+	<ingredient id="57" count="10000000"/>
+    <production id="9590" count="1"/>
+  </item>
+
+  <!-- Steel Bracelet -->
+  <item>     
+	<ingredient id="57" count="10000000"/>
+    <production id="9591" count="1"/>
+  </item>
+
+  <!-- Mithril Bracelet -->
+  <item>     
+	<ingredient id="3470" count="2"/>
+    <production id="9592" count="1"/>
+  </item>
+  
+  <!-- Mithril Bracelet -->
+  <item>     
+	<ingredient id="3470" count="5"/>
+    <production id="10210" count="1"/>
+  </item>
+  
+
+</list>

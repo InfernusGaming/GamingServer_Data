@@ -1,0 +1,143 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Potions -->
+<!-- © 2010 by mathuza -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+	<npc>10002</npc>
+	</npcs>
+
+  <!-- Greater СP Potion -->
+  <item>
+    <ingredient id="6673" count="50"/>
+    <production id="5592" count="100"/>
+  </item> 
+
+  <!-- СP Potion -->
+  <item>
+    <ingredient id="6673" count="25"/>
+    <production id="5591" count="100"/>
+  </item> 
+  
+  <!-- Bottle of Souls -->
+	<item>
+		<ingredient id="57" count="550" />
+		<production id="10409" count="1" />
+	</item>
+  
+  <!-- Full Bottle of Souls - 5 Souls (For Combat) -->
+	<item>
+		<ingredient id="57" count="1500" />
+		<production id="10411" count="1" />
+	</item>
+
+  
+  <!-- Endeavor Potion -->
+  <item>
+    <ingredient id="57" count="50000"/>
+    <production id="733" count="10"/>
+  </item>
+
+  <!-- Greater Swift Attack Potion -->
+  <item>
+    <ingredient id="57" count="50000"/>
+    <production id="1375" count="10"/>
+  </item>
+
+  <!-- Greater Haste Potion -->
+  <item>
+    <ingredient id="57" count="50000"/>
+    <production id="1374" count="10"/>
+  </item>
+
+  <!-- Greater Magic Haste Potion -->
+  <item>
+    <ingredient id="57" count="50000"/>
+    <production id="6036" count="10"/>
+  </item>
+  
+   <!-- Healing Potion -->
+  <item>
+    <ingredient id="57" count="50000"/>
+    <production id="1061" count="10"/>
+  </item>
+    
+  <!-- Greater Healing Potion -->
+  <item>
+    <ingredient id="57" count="50000"/>
+    <production id="1539" count="10"/>
+  </item>
+  
+    <!-- Mana Potion -->
+  <item>
+    <ingredient id="57" count="800"/>
+    <production id="728" count="1"/>
+  </item>
+  
+   <!-- Elixir of Life (B-Grade) -->
+  <item>
+    <ingredient id="57" count="100000"/>
+    <production id="8625" count="10"/>
+  </item>
+
+ <!-- Elixir of Life (A-Grade) -->
+  <item>
+    <ingredient id="57" count="110000"/>
+    <production id="8626" count="10"/>
+  </item>
+
+  <!-- Elixir of Life (S-Grade) -->
+  <item>
+    <ingredient id="57" count="120000"/>
+    <production id="8627" count="10"/>
+  </item>
+  
+   <!-- Elixir of Mental Strength (B-Grade) -->
+  <item>
+    <ingredient id="57" count="200000"/>
+    <production id="8631" count="10"/>
+  </item>
+
+  <!-- Elixir of Mental Strength (A-Grade) -->
+  <item>
+    <ingredient id="57" count="500000"/>
+    <production id="8632" count="10"/>
+  </item>
+
+  <!-- Elixir of Mental Strength (S-Grade) -->
+  <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="8633" count="10"/>
+  </item>
+
+  <!-- Elixir of CP (B-Grade) -->
+  <item>
+    <ingredient id="57" count="200000"/>
+    <production id="8637" count="10"/>
+  </item>
+
+  <!-- Elixir of CP (A-Grade) -->
+  <item>
+    <ingredient id="57" count="500000"/>
+    <production id="8638" count="10"/>
+  </item>
+  
+  <!-- Elixir of CP (S-Grade) -->
+  <item>
+    <ingredient id="57" count="1000000"/>
+    <production id="8639" count="10"/>
+  </item>
+  
+   <item>
+    <ingredient id="57" count="250000"/>
+    <production id="20394" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="57" count="250000"/>
+    <production id="20393" count="1"/>
+  </item>
+
+
+</list>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Support Unit Captain : Enchanted Shirts -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+	<npc>10002</npc>
+	</npcs>
+	
+    <!-- Striped Mithril Shirt -->
+	<item >
+		<ingredient id="9912" count="550" />
+		<production id="9588" count="1" />
+	</item>
+	<!-- Striped Mithril Shirt - Striped Mithril Shirt - HP -->
+	<item >
+		<ingredient id="9588" count="1" />
+		<ingredient id="9912" count="550" />
+		<production id="10512" count="1" />
+	</item>
+	<!-- Striped Mithril Shirt - Striped Mithril Shirt - MP -->
+	<item >
+		<ingredient id="9588" count="1" />
+		<ingredient id="9912" count="550" />
+		<production id="10513" count="1" />
+	</item>
+	<!-- Striped Mithril Shirt - Striped Mithril Shirt - CP -->
+	<item>
+		<ingredient id="9588" count="1" />
+		<ingredient id="9912" count="600" />
+		<production id="10514" count="1" />
+	</item>
+</list>

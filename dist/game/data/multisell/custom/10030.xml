@@ -1,0 +1,154 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Exchange -->
+<!-- © 2010 by mathuza -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+	<npc>10002</npc>
+	</npcs>
+
+  <!-- GB -->
+  <item>
+	<ingredient id="57" count="1000000000"/>
+    <production id="3470" count="1"/>
+    
+  </item>
+  
+   <!-- Adena -->
+  <item>
+	<ingredient id="3470" count="1"/>
+    <production id="57" count="1000000000"/>
+   
+  </item>
+  
+  <!-- Adena -->
+  <item>
+	<ingredient id="57" count="1000"/>
+    <production id="3470" count="1"/>
+   
+  </item>
+  
+  <!-- Festival Adena -->
+  <item>
+	<ingredient id="3470" count="1"/>
+    <production id="6673" count="100"/>
+    
+  </item>
+  
+  <!-- Fame -->
+  <item>
+	<ingredient id="21874" count="1"/>
+    <production id="300" count="100"/>
+    
+  </item>
+  
+    <!-- Fire Stone -->
+  <item>
+    <ingredient id="9547" count="1"/>
+    <production id="9546" count="1"/>
+  </item>
+
+  <!-- Water Stone -->
+  <item>
+    <ingredient id="9546" count="1"/>
+    <production id="9547" count="1"/>
+  </item>
+
+  <!-- Earth Stone -->
+  <item>
+    <ingredient id="9549" count="1"/>
+    <production id="9548" count="1"/>
+  </item>
+
+  <!-- Wind Stone -->
+  <item>
+    <ingredient id="9548" count="1"/>
+    <production id="9549" count="1"/>
+  </item>
+
+  <!-- Dark Stone -->
+  <item>
+    <ingredient id="9551" count="1"/>
+    <production id="9550" count="1"/>
+  </item>
+
+  <!-- Divine Stone -->
+  <item>
+    <ingredient id="9550" count="1"/>
+    <production id="9551" count="1"/>
+  </item>
+
+ <!-- Fire Crystal -->
+  <item>
+    <ingredient id="9553" count="1"/>
+    <production id="9552" count="1"/>
+  </item>
+
+  <!-- Water Crystal -->
+  <item>
+    <ingredient id="9552" count="1"/>
+    <production id="9553" count="1"/>
+  </item>
+
+  <!-- Earth Crystal -->
+  <item>
+    <ingredient id="9555" count="1"/>
+    <production id="9554" count="1"/>
+  </item>
+
+  <!-- Wind Crystal -->
+  <item>
+    <ingredient id="9554" count="1"/>
+    <production id="9555" count="1"/>
+  </item>
+
+  <!-- Dark Crystal -->
+  <item>
+    <ingredient id="9557" count="1"/>
+    <production id="9556" count="1"/>
+  </item>
+
+  <!-- Divine Crystal -->
+  <item>
+    <ingredient id="9556" count="1"/>
+    <production id="9557" count="1"/>
+  </item>
+  
+  <!-- Fire Jewel -->
+  <item>
+    <ingredient id="9559" count="1"/>
+    <production id="9558" count="1"/>
+  </item>
+
+ <!-- Water Jewel -->
+  <item>
+    <ingredient id="9558" count="1"/>
+    <production id="9559" count="1"/>
+  </item>
+
+ <!-- Earth Jewel -->
+  <item>
+    <ingredient id="9561" count="1"/>
+    <production id="9560" count="1"/>
+  </item>
+
+ <!-- Wind Jewel -->
+  <item>
+    <ingredient id="9560" count="1"/>
+    <production id="9561" count="1"/>
+  </item>
+
+ <!-- Dark Jewel -->
+  <item>
+    <ingredient id="9563" count="1"/>
+    <production id="9562" count="1"/>
+  </item>
+
+ <!-- Holy Jewel -->
+  <item>
+    <ingredient id="9562" count="1"/>
+    <production id="9563" count="1"/>
+  </item>
+  
+  </list>

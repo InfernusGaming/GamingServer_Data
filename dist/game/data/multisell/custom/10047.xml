@@ -1,0 +1,29 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- © 2010 by mathuza -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+	<npc>10002</npc>
+	</npcs>
+
+  <!-- Elegia Necklace -->
+  <item>
+    <ingredient id="3470" count="11"/>
+    <production id="15719" count="1"/>
+  </item>
+
+  <!-- Elegia Earring -->
+  <item>
+    <ingredient id="3470" count="11"/>
+    <production id="15718" count="1"/>
+  </item>
+
+  <!-- Elegia Ring -->
+  <item>
+    <ingredient id="3470" count="11"/>
+    <production id="15717" count="1"/>
+  </item>
+
+
+</list>
